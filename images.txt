@@ -1,6 +1,8 @@
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+jenkins/jenkins:lts
+dyrnq/open-webui:latest
+cnvrg/llmaas-docs:0.21.0-rc.2
+php
+httpd:alpine3.20
+maven:3.9.8-amazoncorretto-8-al2023
+imagine10255/centos6-lnmp-php56:latest
